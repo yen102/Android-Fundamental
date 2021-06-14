@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Shopping List</string>
+    <string name="button_fisrt">Common Items</string>
+    <string name="shopping_list">Today\'s List</string>
+    <string name="button_add_item">Add Items</string>
+    <string name="second_activity_title">Common Items</string>
+    <string name="item_1">Cheese</string>
+    <string name="item_2">Apple</string>
+    <string name="item_3">Milk</string>
+    <string name="item_4">Sausage</string>
+    <string name="item_5">Bread</string>
+    <string name="item_6">Bacon</string>
+    <string name="store">Walmart</string>
+    <string name="open_store_button">Open Store</string>
+</resources>
